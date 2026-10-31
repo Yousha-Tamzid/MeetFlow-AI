@@ -1,0 +1,7 @@
+.env
+.venv/
+meet/
+__pycache__/
+*.pyc
+meetflow.db
+.streamlit/secrets.toml
